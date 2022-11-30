@@ -5,6 +5,7 @@
 Android Build Support のモジュールに含まれる adb のパスをクリップボードにコピーできるエディタ拡張
 
 |プラットフォーム|パスの例|
+|:--|:--|
 |Windows|`C:/Program Files/Unity/Hub/Editor/2022.1.11f1/Editor/Unity.exe/../Data/PlaybackEngines/AndroidPlayer/SDK/platform-tools/adb`
 |
 |OSX||
