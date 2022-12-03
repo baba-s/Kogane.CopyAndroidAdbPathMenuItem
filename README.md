@@ -8,4 +8,4 @@ Android Build Support のモジュールに含まれる adb のパスをクリ�
 |:--|:--|
 |Windows|`C:/Program Files/Unity/Hub/Editor/2022.1.11f1/Editor/Unity.exe/../Data/PlaybackEngines/AndroidPlayer/SDK/platform-tools/adb`
 |
-|OSX||
+|OSX|`/Applications/Unity/Hub/Editor/2022.1.11f1/Unity.app/../PlaybackEngines/AndroidPlayer/SDK/platform-tools/adb`|
