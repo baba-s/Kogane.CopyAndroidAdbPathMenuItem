@@ -6,6 +6,5 @@ Android Build Support のモジュールに含まれる adb のパスをクリ�
 
 |プラットフォーム|パスの例|
 |:--|:--|
-|Windows|`C:/Program Files/Unity/Hub/Editor/2022.1.11f1/Editor/Unity.exe/../Data/PlaybackEngines/AndroidPlayer/SDK/platform-tools/adb`
-|
+|Windows|`C:/Program Files/Unity/Hub/Editor/2022.1.11f1/Editor/Unity.exe/../Data/PlaybackEngines/AndroidPlayer/SDK/platform-tools/adb`|
 |OSX|`/Applications/Unity/Hub/Editor/2022.1.11f1/Unity.app/../PlaybackEngines/AndroidPlayer/SDK/platform-tools/adb`|
